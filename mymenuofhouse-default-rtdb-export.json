@@ -1,0 +1,24 @@
+{
+  "fri" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/mymenuofhouse.appspot.com/o/resized-image-Promo.jpeg?alt=media&token=5eaf4ba3-2919-44c0-93c6-1c5e27946e0c",
+    "text" : "cheat day"
+  },
+  "gfdgfdgf" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/mymenuofhouse.appspot.com/o/resized-image-Promo.jpeg?alt=media&token=5eaf4ba3-2919-44c0-93c6-1c5e27946e0c",
+    "text" : "kulcha"
+  },
+  "image" : "https://firebasestorage.googleapis.com/v0/b/mymenuofhouse.appspot.com/o/resized-image-Promo.jpeg?alt=media&token=5eaf4ba3-2919-44c0-93c6-1c5e27946e0c",
+  "sat" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/mymenuofhouse.appspot.com/o/download.jpg?alt=media&token=f48fd49c-855d-4976-b330-41b185a03348",
+    "text" : "Rajma "
+  },
+  "text" : "Chola Bhatora",
+  "thur" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/mymenuofhouse.appspot.com/o/resized-image-Promo.jpeg?alt=media&token=5eaf4ba3-2919-44c0-93c6-1c5e27946e0c",
+    "text" : "Rajma chaval"
+  },
+  "wen" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/mymenuofhouse.appspot.com/o/resized-image-Promo.jpeg?alt=media&token=5eaf4ba3-2919-44c0-93c6-1c5e27946e0c",
+    "text" : "Pani Batasha"
+  }
+}
