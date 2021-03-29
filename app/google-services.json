@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880895150671",
+    "project_id": "mymenuofhouse",
+    "storage_bucket": "mymenuofhouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880895150671:android:1f5c890d0c6e5ff073b83a",
+        "android_client_info": {
+          "package_name": "com.tranphunguyen.myhomemenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880895150671-c50j6699hd8qt1urp69cekru2p5uaf28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYNqD-Ou7hzbgXQ6W6PntqjDTmaCQMcVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880895150671-c50j6699hd8qt1urp69cekru2p5uaf28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
